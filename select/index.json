@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トマトは愛を解さない",
+  "base_artist": "甲斐田晴",
+  "createdAt": "2026-02-18T01:34:27.248429Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トマトは愛を解さない",
+      "artist": "甲斐田晴",
+      "has_synced": false,
+      "path": "select/pl_01_トマトは愛を解さない_甲斐田晴.txt"
+    }
+  ]
+}
